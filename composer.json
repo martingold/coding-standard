@@ -1,0 +1,16 @@
+{
+    "name": "martingold/coding-standard",
+    "description": "Coding standard based on slevomat/coding-standard",
+    "type": "library",
+    "require-dev": {
+        "slevomat/coding-standard": "^4.8",
+        "consistence/coding-standard": "^3.5"
+    },
+    "license": "MIT 2.0",
+    "authors": [
+        {
+            "name": "Martin Gold",
+            "email": "martin.gold@volny.cz"
+        }
+    ]
+}
