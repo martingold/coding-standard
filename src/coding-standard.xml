@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ruleset name="AcmeProject">
-    <rule ref="../vendor/consistence/coding-standard/Consistence/ruleset.xml">
+    <rule ref="../../../../vendor/consistence/coding-standard/Consistence/ruleset.xml">
         <exclude name="SlevomatCodingStandard.Commenting.EmptyComment" />
         <exclude name="Generic.WhiteSpace.ScopeIndent" />
         <exclude name="Generic.WhiteSpace.DisallowSpaceIndent"/>
