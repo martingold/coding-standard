@@ -99,7 +99,6 @@
         </properties>
     </rule>
     <rule ref="SlevomatCodingStandard.Namespaces.FullyQualifiedExceptions" />
-    <rule ref="SlevomatCodingStandard.Namespaces.FullyQualifiedGlobalConstants" />
     <rule ref="SlevomatCodingStandard.Namespaces.MultipleUsesPerLine" />
     <rule ref="SlevomatCodingStandard.Namespaces.ReferenceUsedNamesOnly">
         <properties>
