@@ -5,6 +5,8 @@
         <exclude name="Generic.WhiteSpace.ScopeIndent" />
         <exclude name="Generic.WhiteSpace.DisallowSpaceIndent"/>
         <exclude name="SlevomatCodingStandard.Commenting.RequireOneLinePropertyDocComment"/>
+        <exclude name="Squiz.Commenting.FunctionComment.ParamNameNoMatch"/>
+        <exclude name="Squiz.Commenting.FunctionComment.MissingParamTag"/>
     </rule>
     <rule ref="Generic.WhiteSpace.ScopeIndent">
         <properties>
@@ -37,7 +39,7 @@
     <rule ref="SlevomatCodingStandard.Operators.RequireCombinedAssignmentOperator" />
     <rule ref="SlevomatCodingStandard.Classes.UnusedPrivateElements" />
     <rule ref="SlevomatCodingStandard.Functions.UnusedInheritedVariablePassedToClosure" />
-    <rule ref="SlevomatCodingStandard.Functions.UnusedParameter" />
+    <!--<rule ref="SlevomatCodingStandard.Functions.UnusedParameter" />-->
     <rule ref="SlevomatCodingStandard.Functions.UselessParameterDefaultValue" />
     <rule ref="SlevomatCodingStandard.Namespaces.UnusedUses" />
     <rule ref="SlevomatCodingStandard.Namespaces.UseFromSameNamespace" />
