@@ -7,6 +7,7 @@
         <exclude name="SlevomatCodingStandard.Commenting.RequireOneLinePropertyDocComment"/>
         <exclude name="Squiz.Commenting.FunctionComment.ParamNameNoMatch"/>
         <exclude name="Squiz.Commenting.FunctionComment.MissingParamTag"/>
+        <exclude name="Consistence.Exceptions.ExceptionDeclaration.IncorrectExceptionDirectory"/>
     </rule>
     <rule ref="Generic.WhiteSpace.ScopeIndent">
         <properties>
