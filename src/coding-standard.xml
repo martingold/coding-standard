@@ -8,6 +8,7 @@
         <exclude name="Squiz.Commenting.FunctionComment.ParamNameNoMatch"/>
         <exclude name="Squiz.Commenting.FunctionComment.MissingParamTag"/>
         <exclude name="Consistence.Exceptions.ExceptionDeclaration.IncorrectExceptionDirectory"/>
+        <exclude name="PSR2.Methods.MethodDeclaration.Underscore"/>
     </rule>
     <rule ref="Generic.WhiteSpace.ScopeIndent">
         <properties>
