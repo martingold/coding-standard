@@ -33,7 +33,7 @@
     <rule ref="SlevomatCodingStandard.ControlStructures.AssignmentInCondition" />
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowContinueWithoutIntegerOperandInSwitch" />
     <rule ref="SlevomatCodingStandard.ControlStructures.DisallowEmpty" />
-    <rule ref="SlevomatCodingStandard.ControlStructures.DisallowEqualOperators" />
+    <rule ref="SlevomatCodingStandard.Operators.DisallowEqualOperators" />
     <rule ref="SlevomatCodingStandard.ControlStructures.RequireNullCoalesceOperator" />
     <rule ref="SlevomatCodingStandard.ControlStructures.EarlyExit" />
     <rule ref="SlevomatCodingStandard.Functions.StaticClosure" />
@@ -110,7 +110,7 @@
         </properties>
     </rule>
     <rule ref="SlevomatCodingStandard.Namespaces.UseDoesNotStartWithBackslash" />
-    <rule ref="SlevomatCodingStandard.Types.EmptyLinesAroundTypeBraces" />
+    <rule ref="SlevomatCodingStandard.Classes.EmptyLinesAroundClassBraces" />
     <rule ref="SlevomatCodingStandard.Namespaces.FullyQualifiedClassNameInAnnotation" />
     <rule ref="SlevomatCodingStandard.Commenting.ForbiddenAnnotations">
         <properties>
@@ -135,7 +135,7 @@
     <rule ref="SlevomatCodingStandard.Commenting.InlineDocCommentDeclaration" />
     <rule ref="SlevomatCodingStandard.Commenting.DisallowOneLinePropertyDocComment" />
     <rule ref="SlevomatCodingStandard.Commenting.UselessInheritDocComment" />
-    <rule ref="SlevomatCodingStandard.ControlStructures.UselessConditionWithReturn" />
+    <rule ref="SlevomatCodingStandard.ControlStructures.UselessIfConditionWithReturn" />
     <rule ref="SlevomatCodingStandard.TypeHints.DisallowArrayTypeHintSyntax" />
     <rule ref="SlevomatCodingStandard.TypeHints.DisallowMixedTypeHint" />
 
