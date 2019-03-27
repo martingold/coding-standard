@@ -136,4 +136,7 @@
     <rule ref="SlevomatCodingStandard.Commenting.DisallowOneLinePropertyDocComment" />
     <rule ref="SlevomatCodingStandard.Commenting.UselessInheritDocComment" />
     <rule ref="SlevomatCodingStandard.ControlStructures.UselessConditionWithReturn" />
+    <rule ref="SlevomatCodingStandard.TypeHints.DisallowArrayTypeHintSyntax" />
+    <rule ref="SlevomatCodingStandard.TypeHints.DisallowMixedTypeHint" />
+
 </ruleset>

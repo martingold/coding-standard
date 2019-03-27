@@ -3,8 +3,9 @@
     "description": "Coding standard based on slevomat/coding-standard",
     "type": "library",
     "require-dev": {
-        "slevomat/coding-standard": "^4.8",
-        "consistence/coding-standard": "^3.5"
+        "slevomat/coding-standard": "^5.0",
+        "consistence/coding-standard": "^3.8",
+        "martingold/coding-standard": "^0.1.6"
     },
     "license": "MIT 2.0",
     "authors": [
